@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="979e11d4-2d57-4edd-91aa-40b55f755c58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22qWI6s0Y4IgffMEk0s1O9NSZ9h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BuilderDemo">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.creationaldesignpattern.builder.BuilderDemo" />
+      <module name="project12A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.creationaldesignpattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.reference.IterateList" />
+      <module name="project12A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.reference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaexpression.TestDrive" />
+      <module name="project12A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaexpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.creationaldesignpattern.singleton.TestSingleton" />
+      <module name="project12A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.creationaldesignpattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.UseStream" />
+      <module name="project12A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BuilderDemo" />
+        <item itemvalue="Application.TestSingleton" />
+        <item itemvalue="Application.UseStream" />
+        <item itemvalue="Application.IterateList" />
+        <item itemvalue="Application.TestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="979e11d4-2d57-4edd-91aa-40b55f755c58" name="Default Changelist" comment="" />
+      <created>1640565515012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640565515012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1640570089688">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="513" y="137" key="#com.intellij.ide.util.MemberChooser/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640570089688" />
+    <state width="1358" height="181" key="GridCell.Tab.0.bottom" timestamp="1640570814374">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640570814374" />
+    <state width="1358" height="181" key="GridCell.Tab.0.center" timestamp="1640570814373">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640570814373" />
+    <state width="1358" height="181" key="GridCell.Tab.0.left" timestamp="1640570814372">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640570814372" />
+    <state width="1358" height="181" key="GridCell.Tab.0.right" timestamp="1640570814373">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640570814373" />
+    <state width="1358" height="269" key="GridCell.Tab.1.bottom" timestamp="1640567742151">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.1.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640567742151" />
+    <state width="1358" height="269" key="GridCell.Tab.1.center" timestamp="1640567742150">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.1.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640567742150" />
+    <state width="1358" height="269" key="GridCell.Tab.1.left" timestamp="1640567742149">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.1.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640567742149" />
+    <state width="1358" height="269" key="GridCell.Tab.1.right" timestamp="1640567742150">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="269" key="GridCell.Tab.1.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1640567742150" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaexpression/TestDrive.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaexpression/TestDrive.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/method/reference/IterateList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
